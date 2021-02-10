@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "506318619547",
+    "firebase_url": "https://hajjapp-e0400-default-rtdb.firebaseio.com",
+    "project_id": "hajjapp-e0400",
+    "storage_bucket": "hajjapp-e0400.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506318619547:android:e14c6a7a315b701e9cd73e",
+        "android_client_info": {
+          "package_name": "com.example.hajjapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "506318619547-ij0hkvqfaafotqdlt5k2d6s3gjiuhntc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjUJOxy1VzqEN_a0zZyOZUrK5A8no94Cc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "506318619547-ij0hkvqfaafotqdlt5k2d6s3gjiuhntc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
